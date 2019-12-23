@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 //文件包含程序菜单、检查输入边数和顶点数的值是否合法函数 
 
 #include "Dijkstra_head.h"
@@ -29,3 +30,6 @@ bool Graph::Check(int Vexnum, int edge)
     else
         return true;
 }
+=======
+
+>>>>>>> master
